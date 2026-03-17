@@ -1,4 +1,4 @@
-# predict_system
+# Model Loader
 
 Aplicação **desktop** (PySide6) para **detecção de objetos** com suporte a múltiplos modelos (`.pt` e `.onnx`), rodando em:
 
