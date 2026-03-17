@@ -1,0 +1,6 @@
+ultralytics
+torch
+onnxruntime
+opencv-python
+PySide6
+pyyaml

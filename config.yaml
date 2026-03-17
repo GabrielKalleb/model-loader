@@ -1,0 +1,13 @@
+app:
+  name: predict_system
+  mode: desktop
+
+models:
+  directory: models
+  selected: []
+  cascade_order: []
+
+inference:
+  confidence_threshold: 0.25
+  iou_threshold: 0.45
+  source_type: image

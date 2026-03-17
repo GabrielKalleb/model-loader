@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+
+# Build / dist (PyInstaller)
+build/
+build_release/
+dist/
+dist_release/
+*.spec.bak
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modelos grandes (opcional: use Git LFS se quiser versionar)
+# models/*.pt
+# models/*.onnx
